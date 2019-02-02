@@ -1,0 +1,16 @@
+car
+t-shirt
+tree
+bicycle
+lightning
+donut
+smiley_face
+book
+coffee_cup
+wheel
+flower
+dumbbell
+cup
+knife
+ladder
+triangle
